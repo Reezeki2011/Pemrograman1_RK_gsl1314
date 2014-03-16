@@ -1,0 +1,9 @@
+//LATIHAN REPOSITORY dan GIT
+//Nama File : Biodataku_teks.txt
+
+Nama		: Sri Rezeki Candra N
+Alamat		: Jl. Ruby VII Blok D7/7 Depok
+Status		: Married
+Gol. Darah	: B
+Hobby		: Nyanyi dan Baca
+
